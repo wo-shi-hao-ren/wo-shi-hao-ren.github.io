@@ -1,11 +1,5 @@
-1218707
+2405363
 
-你好你好
+https://clashv2rayfree.com/feed/v2ray-20250719.txt
 
-非常好
-
-特别好
-
-极好
-
-很好
+https://clashv2rayfree.com/clash/v2ray-20250719.yaml
